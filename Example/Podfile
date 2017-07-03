@@ -1,0 +1,6 @@
+use_frameworks!
+target 'R5SDK_Tests' do
+  pod 'R5SDK', :path => '../'
+  
+  
+end
