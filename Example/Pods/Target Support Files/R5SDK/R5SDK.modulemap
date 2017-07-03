@@ -1,0 +1,6 @@
+framework module R5SDK {
+  umbrella header "R5SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

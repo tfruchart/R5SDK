@@ -1,0 +1,22 @@
+{
+  "name": "R5SDK",
+  "version": "0.1.0",
+  "summary": "A short description of R5SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thomas.fruchart@capgemini.com/R5SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thomas.fruchart@capgemini.com": "Mohamed-amine.ait-belarbi@capgemini.com"
+  },
+  "source": {
+    "git": "https://github.com/thomas.fruchart@capgemini.com/R5SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "R5SDK/Classes/**/*"
+}
